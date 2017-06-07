@@ -1,0 +1,48 @@
+E:\Executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+E:\executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+E:\executaveis liberados\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+E:\executaveis liberados\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+C:\Users\Felipe\Desktop\exercicio 2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+E:\Download\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+E:\Executaveis liberados\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.pdb
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Form1.resources
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio_2.Properties.Resources.resources
+C:\Users\Felipe\Desktop\exercicio 2 - v2\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.csproj.GenerateResource.Cache
+C:\Users\Felipe\Desktop\Urna Eletrônica\exercicio 2 - v2\exercicio 2\exercicio 2\bin\Debug\exercicio 2.exe.config
+C:\Users\Felipe\Desktop\Urna Eletrônica\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.exe
+C:\Users\Felipe\Desktop\Urna Eletrônica\exercicio 2 - v2\exercicio 2\exercicio 2\obj\Debug\exercicio 2.pdb
